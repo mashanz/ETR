@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/adhyahan/expansetrackrecord/DbHelper.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/adhyahan/expansetrackrecord/DbHelper.java	(date 1508538400000)
++++ app/src/main/java/com/adhyahan/expansetrackrecord/DbHelper.java	(revision )
+@@ -6,8 +6,6 @@
+ import android.database.sqlite.SQLiteOpenHelper;
+ import android.util.StringBuilderPrinter;
+ 
+-
+-
+ /**
+  * Created by RnEST on 10/18/2017.
+  */

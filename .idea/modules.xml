@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-ETR.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-ETR.iml" group="ETR" />
       <module fileurl="file://$PROJECT_DIR$/ETR.iml" filepath="$PROJECT_DIR$/ETR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ETR-app.iml" filepath="$PROJECT_DIR$/app/ETR-app.iml" group="ETR/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
